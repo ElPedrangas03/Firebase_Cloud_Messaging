@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486163622100",
+    "project_id": "fir-cloud-messenging-bddb5",
+    "storage_bucket": "fir-cloud-messenging-bddb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486163622100:android:c434bd8bce1e36666df341",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconcloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC039ihkfA7MFQhZ_ofQ15PaLEheDCK89Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
