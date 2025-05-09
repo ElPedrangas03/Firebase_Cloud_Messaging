@@ -74,4 +74,7 @@ dependencies {
 
     // Firestore con soporte para Kotlin
     implementation("com.google.firebase:firebase-firestore-ktx")
+
+    implementation(platform(libs.firebase.bom))
+    implementation(libs.firebase.messaging)
 }
